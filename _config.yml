@@ -1,12 +1,12 @@
 # Site
 title:              TaR1z
-bio:                'all those moments will be lost in time, like tears in rain...'
+bio:                '一个小白(喜欢改别人代码...)'
 description:        "you may see me,but i am hollow..."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/bg.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false  # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
 url:                http://localhost:4000
 
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   TaR1z
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              923321822@qq.com
 #twitter:            username
 #facebook:           username
 github-url:         TaR1z
