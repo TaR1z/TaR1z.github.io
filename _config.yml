@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/bg.jpg'
 tiled_bg:           false  # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                http://localhost:4000
+url:                http://TaR1z.github.io
 
 # Jekyll
 permalink:          /:title/
