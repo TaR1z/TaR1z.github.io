@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: 计划
+layout: project
+title: Projects
 excerpt: "A List of Projects"
 comments: false
 ---
