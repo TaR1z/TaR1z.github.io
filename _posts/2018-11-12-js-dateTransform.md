@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "数据类型转换（Number、String、Boolean）"
-date: 2018-10-05
+date: 2018-11-12
 excerpt: "一些小归纳和注意点"
 tags: [Js]
 comments: false

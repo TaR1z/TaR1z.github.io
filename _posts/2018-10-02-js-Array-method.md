@@ -389,8 +389,7 @@ feature: /assets/img/jsinfo/mid-night.png
 {% highlight js %}
   10
   15  
-{% endhighlight %}  
-  
+{% endhighlight %}    
           
                  
   
